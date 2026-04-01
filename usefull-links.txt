@@ -1,2 +1,4 @@
 download iso : 
-https://stuff.mattgadient.com/linux-mac-iso/lubuntu-18.04.4-desktop-amd64-mac-mattgadient.com.iso
+https://stuff.mattgadient.com/linux-mac-iso/lubuntu-18.04.4-desktop-amd64-mac-mattgadient.com.isofile
+file to put in /EFI/BOOT/:
+https://sourceforge.net/projects/puppyszoftver/files/UEFI/bootia32.efi/
