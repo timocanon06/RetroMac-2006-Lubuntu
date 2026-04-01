@@ -8,7 +8,7 @@ If you have an old Intel Core Duo machine gathering dust, this guide will save y
 * **Machine:** MacBook Pro (Early/Late 2006)
 * **Processor:** Intel Core Duo / Core 2 Duo
 * **GPU:** ATI Radeon X1600
-* **RAM:** 2 GB
+* **RAM:** 3 GB
 * **OS:** Legacy Lubuntu (32-bit/64-bit vintage support)
 * **Software:** RetroArch 1.4.1 (Standard for older Lubuntu repositories)
 
