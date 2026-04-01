@@ -1,0 +1,2 @@
+download iso : 
+https://stuff.mattgadient.com/linux-mac-iso/lubuntu-18.04.4-desktop-amd64-mac-mattgadient.com.iso
