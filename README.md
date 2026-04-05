@@ -124,6 +124,4 @@ While the 2006 Mac runs GBA and SNES flawlessly at 60 FPS, **Nintendo DS (e.g., 
 
 ---
 
-### 📸 Images included in this repository:
-* `xmb_fixed.png` : RetroArch UI after assets fix.
-* `pokemon_ds_frameskip.png` : DS emulation pushing the 2006 limits.
+### 📸 Images included in this repository to show games and fps
